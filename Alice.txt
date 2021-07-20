@@ -1,2 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-This is a test for the second line.
+This is a test for the second line. And this is also changed.
